@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: a041512afc2bb3048ab6707463167d23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4737224763589046212
+    second: Tileset gynome volant_0
+  - first:
+      213: -1477870950584905981
+    second: Tileset gynome volant_1
+  - first:
+      213: -5870328454981150215
+    second: Tileset gynome volant_2
+  - first:
+      213: -2859160036732602589
+    second: Tileset gynome volant_3
+  - first:
+      213: -6239127014382636555
+    second: Tileset gynome volant_4
+  - first:
+      213: 2842485982187553896
+    second: Tileset gynome volant_5
+  - first:
+      213: -825234449936114833
+    second: Tileset gynome volant_6
+  - first:
+      213: -5306845245804858279
+    second: Tileset gynome volant_7
+  - first:
+      213: -1193442211025927485
+    second: Tileset gynome volant_8
+  - first:
+      213: -7214472721354641043
+    second: Tileset gynome volant_9
+  - first:
+      213: 7722432760359570295
+    second: Tileset gynome volant_10
+  - first:
+      213: -5578584788171091212
+    second: Tileset gynome volant_11
+  - first:
+      213: 637389822376306633
+    second: Tileset gynome volant_12
+  - first:
+      213: 6872488258449816940
+    second: Tileset gynome volant_13
+  - first:
+      213: 362202179499485931
+    second: Tileset gynome volant_14
+  - first:
+      213: 4861688381016701495
+    second: Tileset gynome volant_15
+  - first:
+      213: 3635457192860820177
+    second: Tileset gynome volant_16
+  - first:
+      213: 2922266315453880055
+    second: Tileset gynome volant_17
+  - first:
+      213: 7099861773218026166
+    second: Tileset gynome volant_18
+  - first:
+      213: 707109106248482301
+    second: Tileset gynome volant_19
+  - first:
+      213: -6671383160580208834
+    second: Tileset gynome volant_20
+  - first:
+      213: 1613987130446044259
+    second: Tileset gynome volant_21
+  - first:
+      213: 8954705799320902029
+    second: Tileset gynome volant_22
+  - first:
+      213: 457380306284729042
+    second: Tileset gynome volant_23
+  - first:
+      213: 7793867303514218566
+    second: Tileset gynome volant_24
+  - first:
+      213: 4388617258453878942
+    second: Tileset gynome volant_25
+  - first:
+      213: -5227023441798301545
+    second: Tileset gynome volant_26
+  - first:
+      213: 4651471890190308673
+    second: Tileset gynome volant_27
+  - first:
+      213: 8036567432061215560
+    second: Tileset gynome volant_28
+  - first:
+      213: -481376455689498279
+    second: Tileset gynome volant_29
+  - first:
+      213: 4229119090330214417
+    second: Tileset gynome volant_30
+  - first:
+      213: 7742779644678345688
+    second: Tileset gynome volant_31
+  - first:
+      213: -811103476042106889
+    second: Tileset gynome volant_32
+  - first:
+      213: -8582400743371267693
+    second: Tileset gynome volant_33
+  - first:
+      213: -5550255815513303348
+    second: Tileset gynome volant_34
+  - first:
+      213: 1993622371750675403
+    second: Tileset gynome volant_35
+  - first:
+      213: 6058529631645036587
+    second: Tileset gynome volant_36
+  - first:
+      213: -4235097020593956882
+    second: Tileset gynome volant_37
+  - first:
+      213: -1212608572836008012
+    second: Tileset gynome volant_38
+  - first:
+      213: 4356790071139747771
+    second: Tileset gynome volant_39
+  - first:
+      213: -7110102105527535243
+    second: Tileset gynome volant_40
+  - first:
+      213: 3237293707036585234
+    second: Tileset gynome volant_41
+  - first:
+      213: 1161694453827731510
+    second: Tileset gynome volant_42
+  - first:
+      213: -2311558873100318908
+    second: Tileset gynome volant_43
+  - first:
+      213: -6891711994689656670
+    second: Tileset gynome volant_44
+  - first:
+      213: 1481827514839951526
+    second: Tileset gynome volant_45
+  - first:
+      213: -1466883323460203801
+    second: Tileset gynome volant_46
+  - first:
+      213: -3058782399016892180
+    second: Tileset gynome volant_47
+  - first:
+      213: -1559041330663826601
+    second: Tileset gynome volant_48
+  - first:
+      213: -352077897498130648
+    second: Tileset gynome volant_49
+  - first:
+      213: -4382617318700822472
+    second: Tileset gynome volant_50
+  - first:
+      213: -4064489313365895490
+    second: Tileset gynome volant_51
+  - first:
+      213: -4854022617338458761
+    second: Tileset gynome volant_52
+  - first:
+      213: -6954955565884517182
+    second: Tileset gynome volant_53
+  - first:
+      213: -2760813734273324428
+    second: Tileset gynome volant_54
+  - first:
+      213: 4581318879330362339
+    second: Tileset gynome volant_55
+  - first:
+      213: 3500366069907645040
+    second: Tileset gynome volant_56
+  - first:
+      213: -8903471218394439447
+    second: Tileset gynome volant_57
+  - first:
+      213: -8309484049745026985
+    second: Tileset gynome volant_58
+  - first:
+      213: -4185425158786407930
+    second: Tileset gynome volant_59
+  - first:
+      213: 6910799923959326453
+    second: Tileset gynome volant_60
+  - first:
+      213: 2811436643132741332
+    second: Tileset gynome volant_61
+  - first:
+      213: -5949346454191915448
+    second: Tileset gynome volant_62
+  - first:
+      213: -9034121715417744010
+    second: Tileset gynome volant_63
+  - first:
+      213: 5584706585567098619
+    second: Tileset gynome volant_64
+  - first:
+      213: -8392812019952840705
+    second: Tileset gynome volant_65
+  - first:
+      213: -3230735176294869350
+    second: Tileset gynome volant_66
+  - first:
+      213: 7392945074902863319
+    second: Tileset gynome volant_67
+  - first:
+      213: 5197577956436648127
+    second: Tileset gynome volant_68
+  - first:
+      213: -3177877236506009504
+    second: Tileset gynome volant_69
+  - first:
+      213: -3529320162302855892
+    second: Tileset gynome volant_70
+  - first:
+      213: -4604785747141718163
+    second: Tileset gynome volant_71
+  - first:
+      213: 8223450235666409133
+    second: Tileset gynome volant_72
+  - first:
+      213: 6677388609894706537
+    second: Tileset gynome volant_73
+  - first:
+      213: 1207692712615081120
+    second: Tileset gynome volant_74
+  - first:
+      213: -4386884349197715575
+    second: Tileset gynome volant_75
+  - first:
+      213: 8655953298996085671
+    second: Tileset gynome volant_76
+  - first:
+      213: 6720266160471078006
+    second: Tileset gynome volant_77
+  - first:
+      213: -5467155929230710567
+    second: Tileset gynome volant_78
+  - first:
+      213: 2132921967620738288
+    second: Tileset gynome volant_79
+  - first:
+      213: 2244823010833940607
+    second: Tileset gynome volant_80
+  - first:
+      213: -8318454199775425650
+    second: Tileset gynome volant_81
+  - first:
+      213: 6926597181959627497
+    second: Tileset gynome volant_82
+  - first:
+      213: 8614049727937934458
+    second: Tileset gynome volant_83
+  - first:
+      213: -6999388467227404823
+    second: Tileset gynome volant_84
+  - first:
+      213: -8893034059203816378
+    second: Tileset gynome volant_85
+  - first:
+      213: -9157170162186079792
+    second: Tileset gynome volant_86
+  - first:
+      213: -5169592857599976121
+    second: Tileset gynome volant_87
+  - first:
+      213: 5665035913790630987
+    second: Tileset gynome volant_88
+  - first:
+      213: 4919907887971777058
+    second: Tileset gynome volant_89
+  - first:
+      213: 2878099630335055937
+    second: Tileset gynome volant_90
+  - first:
+      213: -1254921145508713279
+    second: Tileset gynome volant_91
+  - first:
+      213: -7334444089387883287
+    second: Tileset gynome volant_92
+  - first:
+      213: 5868603229281633798
+    second: Tileset gynome volant_93
+  - first:
+      213: -180369284382984139
+    second: Tileset gynome volant_94
+  - first:
+      213: -4660176130596408561
+    second: Tileset gynome volant_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset gynome volant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3057192d2ff14eb0800000000000000
+      internalID: -4737224763589046212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8486533c8d7be0800000000000000
+      internalID: -1477870950584905981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 336
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91bfd5f57688ea0800000000000000
+      internalID: -5870328454981150215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 344
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277f8658193258d0800000000000000
+      internalID: -2859160036732602589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1fd27690b2a69a0800000000000000
+      internalID: -6239127014382636555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 336
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864015fc0f9827720800000000000000
+      internalID: 2842485982187553896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b942bd3ad2c84f0800000000000000
+      internalID: -825234449936114833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b4d5ad5c4a56b0800000000000000
+      internalID: -5306845245804858279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 336
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c7d7d1aa007fe0800000000000000
+      internalID: -1193442211025927485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 344
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6139e9a84b01eb90800000000000000
+      internalID: -7214472721354641043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b421b2ea79b2b60800000000000000
+      internalID: 7722432760359570295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 336
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21aa711b2e492b0800000000000000
+      internalID: -5578584788171091212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7603a9aa678d800800000000000000
+      internalID: 637389822376306633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 298
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db1f7b8abff5f50800000000000000
+      internalID: 6872488258449816940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea60f596fcc60500800000000000000
+      internalID: 362202179499485931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 295
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af42ff2df287340800000000000000
+      internalID: 4861688381016701495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 298
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2ab903e0db37230800000000000000
+      internalID: 3635457192860820177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 288
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d7b72bb9fd8820800000000000000
+      internalID: 2922266315453880055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 295
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b219038aa6c78260800000000000000
+      internalID: 7099861773218026166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 298
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd72675cf720d900800000000000000
+      internalID: 707109106248482301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370819ac5c7a63a0800000000000000
+      internalID: -6671383160580208834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 295
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd94e6eb8066610800000000000000
+      internalID: 1613987130446044259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 298
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8917acfa71854c70800000000000000
+      internalID: 8954705799320902029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 288
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25c5b17f0f85600800000000000000
+      internalID: 457380306284729042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402f74d401692c60800000000000000
+      internalID: 7793867303514218566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ca49052087ec30800000000000000
+      internalID: 4388617258453878942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 240
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f8f6afd1e577b0800000000000000
+      internalID: -5227023441798301545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14512812a095d8040800000000000000
+      internalID: 4651471890190308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436b79ff7f978f60800000000000000
+      internalID: 8036567432061215560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951146bf9aec159f0800000000000000
+      internalID: -481376455689498279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a4f3e769d0ba30800000000000000
+      internalID: 4229119090330214417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39d275011e37b60800000000000000
+      internalID: 7742779644678345688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7fc6a9fa16eb4f0800000000000000
+      internalID: -811103476042106889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 247
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ae43deff25e880800000000000000
+      internalID: -8582400743371267693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc698c70eb789f2b0800000000000000
+      internalID: -5550255815513303348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_35
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 240
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc388740cf4caab10800000000000000
+      internalID: 1993622371750675403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 200
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20716bb998341450800000000000000
+      internalID: 6058529631645036587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 247
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79e22c2b9e935c0800000000000000
+      internalID: -4235097020593956882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 240
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf248c7de2fb2fe0800000000000000
+      internalID: -1212608572836008012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 240
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7cb378c7d667c30800000000000000
+      internalID: 4356790071139747771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57936435ec7d35d90800000000000000
+      internalID: -7110102105527535243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 197
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de581897d2dec20800000000000000
+      internalID: 3237293707036585234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 203
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63081f963fa2f1010800000000000000
+      internalID: 1161694453827731510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 197
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447047bb371bbefd0800000000000000
+      internalID: -2311558873100318908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 203
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a869366478bb50a0800000000000000
+      internalID: -6891711994689656670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 192
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86f601642809410800000000000000
+      internalID: 1481827514839951526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 203
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eac532a36594abe0800000000000000
+      internalID: -1466883323460203801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 192
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8816d3d950d85d0800000000000000
+      internalID: -3058782399016892180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b51af7b2c2d5ae0800000000000000
+      internalID: -1559041330663826601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278b52840b2d1bf0800000000000000
+      internalID: -352077897498130648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830dc5cc4c0dd23c0800000000000000
+      internalID: -4382617318700822472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6547b01880897c0800000000000000
+      internalID: -4064489313365895490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d44d1b52c03acb0800000000000000
+      internalID: -4854022617338458761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 144
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4d3d203c80b7f90800000000000000
+      internalID: -6954955565884517182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6e9d398e9fa9d0800000000000000
+      internalID: -2760813734273324428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3e6457f3d149f30800000000000000
+      internalID: 4581318879330362339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072eca4156cc39030800000000000000
+      internalID: 3500366069907645040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06fa77914807480800000000000000
+      internalID: -8903471218394439447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506c244848ceac80800000000000000
+      internalID: -8309484049745026985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ad805ef16ae5c0800000000000000
+      internalID: -4185425158786407930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f664657ae718ef50800000000000000
+      internalID: 6910799923959326453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 106
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d691763bba340720800000000000000
+      internalID: 2811436643132741332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3920cbecaf6da0800000000000000
+      internalID: -5949346454191915448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df1e62a2a50a280800000000000000
+      internalID: -9034121715417744010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 106
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f28fec0dd08d40800000000000000
+      internalID: 5584706585567098619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 96
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff05145fedb68b80800000000000000
+      internalID: -8392812019952840705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 103
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d59d697f1a23d0800000000000000
+      internalID: -3230735176294869350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 106
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0f894064099660800000000000000
+      internalID: 7392945074902863319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_68
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 96
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0aec90d91812840800000000000000
+      internalID: 5197577956436648127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 103
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06062429d79e5e3d0800000000000000
+      internalID: -3177877236506009504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 106
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257053f206550fc0800000000000000
+      internalID: -3529320162302855892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 96
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f06da92c38810c0800000000000000
+      internalID: -4604785747141718163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6affc6b609f1270800000000000000
+      internalID: 8223450235666409133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 58
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6308ff89daac50800000000000000
+      internalID: 6677388609894706537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ff3d9f1692c010800000000000000
+      internalID: 1207692712615081120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98779575de7ae13c0800000000000000
+      internalID: -4386884349197715575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 58
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3480b0aaf102870800000000000000
+      internalID: 8655953298996085671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 50
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f4faa77e234d50800000000000000
+      internalID: 6720266160471078006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8688a06a2c024b0800000000000000
+      internalID: -5467155929230710567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 58
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc49a59a39a99d10800000000000000
+      internalID: 2132921967620738288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 48
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70416082a6372f10800000000000000
+      internalID: 2244823010833940607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 55
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b87067af9ee8c80800000000000000
+      internalID: -8318454199775425650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 58
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ece43077302060800000000000000
+      internalID: 6926597181959627497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 48
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747a4f96904b8770800000000000000
+      internalID: 8614049727937934458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d1fdf54d2dde90800000000000000
+      internalID: -6999388467227404823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d4b5f3a8959480800000000000000
+      internalID: -8893034059203816378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b71711423be080800000000000000
+      internalID: -9157170162186079792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5b598faae148b0800000000000000
+      internalID: -5169592857599976121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c225126204e9e40800000000000000
+      internalID: 5665035913790630987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_89
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a33364826074440800000000000000
+      internalID: 4919907887971777058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dd4e6d5011f720800000000000000
+      internalID: 2878099630335055937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca3d4fddf959ee0800000000000000
+      internalID: -1254921145508713279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_92
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46213d5f1d63a90800000000000000
+      internalID: -7334444089387883287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_93
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ca093b87717150800000000000000
+      internalID: 5868603229281633798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_94
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f5fb67133f7df0800000000000000
+      internalID: -180369284382984139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset gynome volant_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fb09ff7ab35fb0800000000000000
+      internalID: -4660176130596408561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

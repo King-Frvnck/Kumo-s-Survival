@@ -1,0 +1,3576 @@
+fileFormatVersion: 2
+guid: df5e3e3a2e09ae140a8b9d3979efe8b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2004205031007537411
+    second: Ejemplo-tiles-Game-Maker-Studio_0
+  - first:
+      213: 3432201166890653907
+    second: Ejemplo-tiles-Game-Maker-Studio_1
+  - first:
+      213: -4620175588656972346
+    second: Ejemplo-tiles-Game-Maker-Studio_2
+  - first:
+      213: 6323635072015136892
+    second: Ejemplo-tiles-Game-Maker-Studio_3
+  - first:
+      213: 8341353997313391668
+    second: Ejemplo-tiles-Game-Maker-Studio_4
+  - first:
+      213: -3332200724823543940
+    second: Ejemplo-tiles-Game-Maker-Studio_5
+  - first:
+      213: -4432517294779770177
+    second: Ejemplo-tiles-Game-Maker-Studio_6
+  - first:
+      213: 6356319841862664009
+    second: Ejemplo-tiles-Game-Maker-Studio_7
+  - first:
+      213: 6053265022743937558
+    second: Ejemplo-tiles-Game-Maker-Studio_8
+  - first:
+      213: 295597348122394092
+    second: Ejemplo-tiles-Game-Maker-Studio_9
+  - first:
+      213: 1833033618480307307
+    second: Ejemplo-tiles-Game-Maker-Studio_10
+  - first:
+      213: -6707443506650996877
+    second: Ejemplo-tiles-Game-Maker-Studio_11
+  - first:
+      213: -1892845091241335410
+    second: Ejemplo-tiles-Game-Maker-Studio_12
+  - first:
+      213: -7235536290905889071
+    second: Ejemplo-tiles-Game-Maker-Studio_13
+  - first:
+      213: 3287381383770462310
+    second: Ejemplo-tiles-Game-Maker-Studio_14
+  - first:
+      213: -7453227495563503849
+    second: Ejemplo-tiles-Game-Maker-Studio_15
+  - first:
+      213: 4182524929341380120
+    second: Ejemplo-tiles-Game-Maker-Studio_16
+  - first:
+      213: -4899014296984373532
+    second: Ejemplo-tiles-Game-Maker-Studio_17
+  - first:
+      213: -2995825506030034654
+    second: Ejemplo-tiles-Game-Maker-Studio_18
+  - first:
+      213: -1611508596397441882
+    second: Ejemplo-tiles-Game-Maker-Studio_19
+  - first:
+      213: 4299949896276959315
+    second: Ejemplo-tiles-Game-Maker-Studio_20
+  - first:
+      213: 8769108135367698773
+    second: Ejemplo-tiles-Game-Maker-Studio_21
+  - first:
+      213: 4241576627616898924
+    second: Ejemplo-tiles-Game-Maker-Studio_22
+  - first:
+      213: 6743072865189434996
+    second: Ejemplo-tiles-Game-Maker-Studio_23
+  - first:
+      213: 6802268851661019557
+    second: Ejemplo-tiles-Game-Maker-Studio_24
+  - first:
+      213: -4487518983054359649
+    second: Ejemplo-tiles-Game-Maker-Studio_25
+  - first:
+      213: 7864438602802050323
+    second: Ejemplo-tiles-Game-Maker-Studio_26
+  - first:
+      213: -1613917265465929903
+    second: Ejemplo-tiles-Game-Maker-Studio_27
+  - first:
+      213: 6572706914785176035
+    second: Ejemplo-tiles-Game-Maker-Studio_28
+  - first:
+      213: 2490635099502645258
+    second: Ejemplo-tiles-Game-Maker-Studio_29
+  - first:
+      213: 842590256086696039
+    second: Ejemplo-tiles-Game-Maker-Studio_30
+  - first:
+      213: -8431507537633541263
+    second: Ejemplo-tiles-Game-Maker-Studio_31
+  - first:
+      213: -2543436274950564647
+    second: Ejemplo-tiles-Game-Maker-Studio_32
+  - first:
+      213: 5991027734575135946
+    second: Ejemplo-tiles-Game-Maker-Studio_33
+  - first:
+      213: 5092851202311395366
+    second: Ejemplo-tiles-Game-Maker-Studio_34
+  - first:
+      213: -959014456165665796
+    second: Ejemplo-tiles-Game-Maker-Studio_35
+  - first:
+      213: 4577317432760247124
+    second: Ejemplo-tiles-Game-Maker-Studio_36
+  - first:
+      213: 4637098971164448727
+    second: Ejemplo-tiles-Game-Maker-Studio_37
+  - first:
+      213: 8961952196745515126
+    second: Ejemplo-tiles-Game-Maker-Studio_38
+  - first:
+      213: -3216087837720225810
+    second: Ejemplo-tiles-Game-Maker-Studio_39
+  - first:
+      213: -7301364757616692858
+    second: Ejemplo-tiles-Game-Maker-Studio_40
+  - first:
+      213: 6710842678772662233
+    second: Ejemplo-tiles-Game-Maker-Studio_41
+  - first:
+      213: 8742285752604910464
+    second: Ejemplo-tiles-Game-Maker-Studio_42
+  - first:
+      213: -2454975894039461150
+    second: Ejemplo-tiles-Game-Maker-Studio_43
+  - first:
+      213: 6783684437155244659
+    second: Ejemplo-tiles-Game-Maker-Studio_44
+  - first:
+      213: 571024883422010888
+    second: Ejemplo-tiles-Game-Maker-Studio_45
+  - first:
+      213: 4040614116016116790
+    second: Ejemplo-tiles-Game-Maker-Studio_46
+  - first:
+      213: -1242918317260776995
+    second: Ejemplo-tiles-Game-Maker-Studio_47
+  - first:
+      213: 8577117309541174623
+    second: Ejemplo-tiles-Game-Maker-Studio_48
+  - first:
+      213: 6319603139796290867
+    second: Ejemplo-tiles-Game-Maker-Studio_49
+  - first:
+      213: 2559773023527289943
+    second: Ejemplo-tiles-Game-Maker-Studio_50
+  - first:
+      213: 4809272484980905557
+    second: Ejemplo-tiles-Game-Maker-Studio_51
+  - first:
+      213: 8717515827834004372
+    second: Ejemplo-tiles-Game-Maker-Studio_52
+  - first:
+      213: -2168415671450634114
+    second: Ejemplo-tiles-Game-Maker-Studio_53
+  - first:
+      213: 2187361767045633425
+    second: Ejemplo-tiles-Game-Maker-Studio_54
+  - first:
+      213: -1567010421541048033
+    second: Ejemplo-tiles-Game-Maker-Studio_55
+  - first:
+      213: -6784308771418334651
+    second: Ejemplo-tiles-Game-Maker-Studio_56
+  - first:
+      213: -4469626706421459191
+    second: Ejemplo-tiles-Game-Maker-Studio_57
+  - first:
+      213: 568430955531316234
+    second: Ejemplo-tiles-Game-Maker-Studio_58
+  - first:
+      213: 8110928340136065905
+    second: Ejemplo-tiles-Game-Maker-Studio_59
+  - first:
+      213: -8668351736461828586
+    second: Ejemplo-tiles-Game-Maker-Studio_60
+  - first:
+      213: -6756317971990443420
+    second: Ejemplo-tiles-Game-Maker-Studio_61
+  - first:
+      213: 365994974529262788
+    second: Ejemplo-tiles-Game-Maker-Studio_62
+  - first:
+      213: 8345517833319121720
+    second: Ejemplo-tiles-Game-Maker-Studio_63
+  - first:
+      213: -5958592800280623232
+    second: Ejemplo-tiles-Game-Maker-Studio_64
+  - first:
+      213: -1812815331713170018
+    second: Ejemplo-tiles-Game-Maker-Studio_65
+  - first:
+      213: -8843925432707538697
+    second: Ejemplo-tiles-Game-Maker-Studio_66
+  - first:
+      213: -1904206765020753027
+    second: Ejemplo-tiles-Game-Maker-Studio_67
+  - first:
+      213: -7494593429897417829
+    second: Ejemplo-tiles-Game-Maker-Studio_68
+  - first:
+      213: 5524714847891797507
+    second: Ejemplo-tiles-Game-Maker-Studio_69
+  - first:
+      213: 2012588390224165639
+    second: Ejemplo-tiles-Game-Maker-Studio_70
+  - first:
+      213: -5048467613726906761
+    second: Ejemplo-tiles-Game-Maker-Studio_71
+  - first:
+      213: -2906280404025814472
+    second: Ejemplo-tiles-Game-Maker-Studio_72
+  - first:
+      213: 9121105542168931300
+    second: Ejemplo-tiles-Game-Maker-Studio_73
+  - first:
+      213: 3803075341777616668
+    second: Ejemplo-tiles-Game-Maker-Studio_74
+  - first:
+      213: -5652691819931768588
+    second: Ejemplo-tiles-Game-Maker-Studio_75
+  - first:
+      213: 2157160343707927444
+    second: Ejemplo-tiles-Game-Maker-Studio_76
+  - first:
+      213: -1149420889127545453
+    second: Ejemplo-tiles-Game-Maker-Studio_77
+  - first:
+      213: 5737269739158446704
+    second: Ejemplo-tiles-Game-Maker-Studio_78
+  - first:
+      213: -7233844722781452935
+    second: Ejemplo-tiles-Game-Maker-Studio_79
+  - first:
+      213: -1069744433444919263
+    second: Ejemplo-tiles-Game-Maker-Studio_80
+  - first:
+      213: -2467158643325755535
+    second: Ejemplo-tiles-Game-Maker-Studio_81
+  - first:
+      213: -3670865374791477691
+    second: Ejemplo-tiles-Game-Maker-Studio_82
+  - first:
+      213: -4699731207902094845
+    second: Ejemplo-tiles-Game-Maker-Studio_83
+  - first:
+      213: 4365531786687268080
+    second: Ejemplo-tiles-Game-Maker-Studio_84
+  - first:
+      213: 3506394969582249249
+    second: Ejemplo-tiles-Game-Maker-Studio_85
+  - first:
+      213: -7072433468978312741
+    second: Ejemplo-tiles-Game-Maker-Studio_86
+  - first:
+      213: -8501742166736623923
+    second: Ejemplo-tiles-Game-Maker-Studio_87
+  - first:
+      213: 3031286355836803399
+    second: Ejemplo-tiles-Game-Maker-Studio_88
+  - first:
+      213: 1825250595631440882
+    second: Ejemplo-tiles-Game-Maker-Studio_89
+  - first:
+      213: -5433090383284007883
+    second: Ejemplo-tiles-Game-Maker-Studio_90
+  - first:
+      213: -7288114107218110946
+    second: Ejemplo-tiles-Game-Maker-Studio_91
+  - first:
+      213: -3405008213916692987
+    second: Ejemplo-tiles-Game-Maker-Studio_92
+  - first:
+      213: 7518726364126290748
+    second: Ejemplo-tiles-Game-Maker-Studio_93
+  - first:
+      213: 4470724671225356488
+    second: Ejemplo-tiles-Game-Maker-Studio_94
+  - first:
+      213: -6511214729559887663
+    second: Ejemplo-tiles-Game-Maker-Studio_95
+  - first:
+      213: 6508464210026783559
+    second: Ejemplo-tiles-Game-Maker-Studio_96
+  - first:
+      213: 3130319808144524647
+    second: Ejemplo-tiles-Game-Maker-Studio_97
+  - first:
+      213: 6065547605666851326
+    second: Ejemplo-tiles-Game-Maker-Studio_98
+  - first:
+      213: 747180054608486415
+    second: Ejemplo-tiles-Game-Maker-Studio_99
+  - first:
+      213: 4972583896503747014
+    second: Ejemplo-tiles-Game-Maker-Studio_100
+  - first:
+      213: 4709233699956026351
+    second: Ejemplo-tiles-Game-Maker-Studio_101
+  - first:
+      213: -7533960058136295813
+    second: Ejemplo-tiles-Game-Maker-Studio_102
+  - first:
+      213: -1517876880498416109
+    second: Ejemplo-tiles-Game-Maker-Studio_103
+  - first:
+      213: -8933245595841250139
+    second: Ejemplo-tiles-Game-Maker-Studio_104
+  - first:
+      213: 1128575761535870503
+    second: Ejemplo-tiles-Game-Maker-Studio_105
+  - first:
+      213: 3609151019852052874
+    second: Ejemplo-tiles-Game-Maker-Studio_106
+  - first:
+      213: -7617002554021743302
+    second: Ejemplo-tiles-Game-Maker-Studio_107
+  - first:
+      213: 5309941039800642082
+    second: Ejemplo-tiles-Game-Maker-Studio_108
+  - first:
+      213: -8296796730216362294
+    second: Ejemplo-tiles-Game-Maker-Studio_109
+  - first:
+      213: -4373693815208002373
+    second: Ejemplo-tiles-Game-Maker-Studio_110
+  - first:
+      213: -1028467300868418561
+    second: Ejemplo-tiles-Game-Maker-Studio_111
+  - first:
+      213: 2077899394149324026
+    second: Ejemplo-tiles-Game-Maker-Studio_112
+  - first:
+      213: 2309258998556284268
+    second: Ejemplo-tiles-Game-Maker-Studio_113
+  - first:
+      213: -7802047101369706149
+    second: Ejemplo-tiles-Game-Maker-Studio_114
+  - first:
+      213: 6004629636656502833
+    second: Ejemplo-tiles-Game-Maker-Studio_115
+  - first:
+      213: -2346417009758893617
+    second: Ejemplo-tiles-Game-Maker-Studio_116
+  - first:
+      213: -8122622088855140784
+    second: Ejemplo-tiles-Game-Maker-Studio_117
+  - first:
+      213: 4509686776448516948
+    second: Ejemplo-tiles-Game-Maker-Studio_118
+  - first:
+      213: 4792584426724147667
+    second: Ejemplo-tiles-Game-Maker-Studio_119
+  - first:
+      213: -4972429557045589741
+    second: Ejemplo-tiles-Game-Maker-Studio_120
+  - first:
+      213: -7609408129221550482
+    second: Ejemplo-tiles-Game-Maker-Studio_121
+  - first:
+      213: 1894421376409064966
+    second: Ejemplo-tiles-Game-Maker-Studio_122
+  - first:
+      213: -5519559472205616854
+    second: Ejemplo-tiles-Game-Maker-Studio_123
+  - first:
+      213: 2853876242015726513
+    second: Ejemplo-tiles-Game-Maker-Studio_124
+  - first:
+      213: -2370070571817172575
+    second: Ejemplo-tiles-Game-Maker-Studio_125
+  - first:
+      213: 5244749330455066964
+    second: Ejemplo-tiles-Game-Maker-Studio_126
+  - first:
+      213: 8106441814239625606
+    second: Ejemplo-tiles-Game-Maker-Studio_127
+  - first:
+      213: 8224704865097904816
+    second: Ejemplo-tiles-Game-Maker-Studio_128
+  - first:
+      213: -4333813802036518190
+    second: Ejemplo-tiles-Game-Maker-Studio_129
+  - first:
+      213: -7750893801895774135
+    second: Ejemplo-tiles-Game-Maker-Studio_130
+  - first:
+      213: 9156219898364707037
+    second: Ejemplo-tiles-Game-Maker-Studio_131
+  - first:
+      213: -1155958091801768714
+    second: Ejemplo-tiles-Game-Maker-Studio_132
+  - first:
+      213: -7181662119015858278
+    second: Ejemplo-tiles-Game-Maker-Studio_133
+  - first:
+      213: -935004717232601097
+    second: Ejemplo-tiles-Game-Maker-Studio_134
+  - first:
+      213: 8938002726975571676
+    second: Ejemplo-tiles-Game-Maker-Studio_135
+  - first:
+      213: -9165235228309379965
+    second: Ejemplo-tiles-Game-Maker-Studio_136
+  - first:
+      213: 4270432171985322270
+    second: Ejemplo-tiles-Game-Maker-Studio_137
+  - first:
+      213: -7748123200184535585
+    second: Ejemplo-tiles-Game-Maker-Studio_138
+  - first:
+      213: -8944866916051254522
+    second: Ejemplo-tiles-Game-Maker-Studio_139
+  - first:
+      213: 5460630323711275192
+    second: Ejemplo-tiles-Game-Maker-Studio_140
+  - first:
+      213: -8333885883971404036
+    second: Ejemplo-tiles-Game-Maker-Studio_141
+  - first:
+      213: -3023867171786091642
+    second: Ejemplo-tiles-Game-Maker-Studio_142
+  - first:
+      213: -113968056046248101
+    second: Ejemplo-tiles-Game-Maker-Studio_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 68
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6bebd9422af24e0800000000000000
+      internalID: -2004205031007537411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d236d6c0a1af20800000000000000
+      internalID: 3432201166890653907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7b26e7c6d1efb0800000000000000
+      internalID: -4620175588656972346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f9ac089012c750800000000000000
+      internalID: 6323635072015136892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c36a3244172c370800000000000000
+      internalID: 8341353997313391668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe7947815a1c1d0800000000000000
+      internalID: -3332200724823543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba50ef31098c72c0800000000000000
+      internalID: -4432517294779770177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fbdfc083f263850800000000000000
+      internalID: 6356319841862664009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61203f37774810450800000000000000
+      internalID: 6053265022743937558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf163d83c2a1400800000000000000
+      internalID: 295597348122394092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c1eda3d5e307910800000000000000
+      internalID: 1833033618480307307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 784.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f11131baf5ae2a0800000000000000
+      internalID: -6707443506650996877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e7b11b634bb5e0800000000000000
+      internalID: -1892845091241335410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66b153416369b90800000000000000
+      internalID: -7235536290905889071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ded483ff1f9d20800000000000000
+      internalID: 3287381383770462310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71753c8e411d09890800000000000000
+      internalID: -7453227495563503849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816db9563405b0a30800000000000000
+      internalID: 4182524929341380120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6bfa6f374330cb0800000000000000
+      internalID: -4899014296984373532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22166082390bc66d0800000000000000
+      internalID: -2995825506030034654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acfd3f3875c2a9e0800000000000000
+      internalID: -1611508596397441882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e09706ad7cab30800000000000000
+      internalID: 4299949896276959315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559649d636122b970800000000000000
+      internalID: 8769108135367698773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f54b0587b1dda30800000000000000
+      internalID: 4241576627616898924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 713.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47611386b05349d50800000000000000
+      internalID: 6743072865189434996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a995f90b73866e50800000000000000
+      internalID: 6802268851661019557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930934c24129b1c0800000000000000
+      internalID: -4487518983054359649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b2eddd39142d60800000000000000
+      internalID: 7864438602802050323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f88074cc63a99e0800000000000000
+      internalID: -1613917265465929903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e926848d12f63b50800000000000000
+      internalID: 6572706914785176035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 653
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0099f25d63809220800000000000000
+      internalID: 2490635099502645258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 643
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c049af5b71bb00800000000000000
+      internalID: 842590256086696039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173035a01944dfa80800000000000000
+      internalID: -8431507537633541263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49ab20f26e3bcd0800000000000000
+      internalID: -2543436274950564647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3dd69bf7642350800000000000000
+      internalID: 5991027734575135946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_34
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62811b77f217da640800000000000000
+      internalID: 5092851202311395366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_35
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 642.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f7c5ee65e0b2f0800000000000000
+      internalID: -959014456165665796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a0e314f5e58f30800000000000000
+      internalID: 4577317432760247124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7169422f84a5040800000000000000
+      internalID: 4637098971164448727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705c0d5a004f5c70800000000000000
+      internalID: 8961952196745515126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75b32b6292e53d0800000000000000
+      internalID: -3216087837720225810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68173beef675caa90800000000000000
+      internalID: -7301364757616692858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df76cb5cd3b12d50800000000000000
+      internalID: 6710842678772662233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08369f8c296d25970800000000000000
+      internalID: 8742285752604910464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e281af6e6c2eedd0800000000000000
+      internalID: -2454975894039461150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aebf8dd0d742e50800000000000000
+      internalID: 6783684437155244659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e17462b10bce700800000000000000
+      internalID: 571024883422010888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d1936125231830800000000000000
+      internalID: 4040614116016116790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 571.6667
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd958de206440cee0800000000000000
+      internalID: -1242918317260776995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4e00efba080770800000000000000
+      internalID: 8577117309541174623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d400da29db3b750800000000000000
+      internalID: 6319603139796290867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c8fca004268320800000000000000
+      internalID: 2559773023527289943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d85f28d7fdb240800000000000000
+      internalID: 4809272484980905557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49324e14576daf870800000000000000
+      internalID: 8717515827834004372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787bc18f6d38e1e0800000000000000
+      internalID: -2168415671450634114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195960020f11b5e10800000000000000
+      internalID: 2187361767045633425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_55
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11f5b0f25cd04ae0800000000000000
+      internalID: -1567010421541048033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_56
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1b010e1b49d1a0800000000000000
+      internalID: -6784308771418334651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907562d0132b8f1c0800000000000000
+      internalID: -4469626706421459191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_58
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca7cf31f873e700800000000000000
+      internalID: 568430955531316234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_59
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 500.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b75701a5ecf8070800000000000000
+      internalID: 8110928340136065905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5d08c504d3b780800000000000000
+      internalID: -8668351736461828586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0ce9d99cbc32a0800000000000000
+      internalID: -6756317971990443420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4156e7d76441500800000000000000
+      internalID: 365994974529262788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338ca1c04c31d370800000000000000
+      internalID: 8345517833319121720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c21a0b63de4da0800000000000000
+      internalID: -5958592800280623232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 431
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95cadd7f0697d6e0800000000000000
+      internalID: -1812815331713170018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 431
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ac631da0144580800000000000000
+      internalID: -8843925432707538697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73da004906e295e0800000000000000
+      internalID: -1904206765020753027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_68
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9becfacbfaddf790800000000000000
+      internalID: -7494593429897417829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_69
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306bae902eabbac40800000000000000
+      internalID: 5524714847891797507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_70
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf26e4a762eeb10800000000000000
+      internalID: 2012588390224165639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_71
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 429.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7766eb7047d30f9b0800000000000000
+      internalID: -5048467613726906761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832dc54ee51daa7d0800000000000000
+      internalID: -2906280404025814472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb63d73a2da49e70800000000000000
+      internalID: 9121105542168931300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb3b0bfdc37c430800000000000000
+      internalID: 3803075341777616668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e5303dba9d81b0800000000000000
+      internalID: -5652691819931768588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493454a47e5cfed10800000000000000
+      internalID: 2157160343707927444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395932e8acf6c00f0800000000000000
+      internalID: -1149420889127545453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072232f2e60ee9f40800000000000000
+      internalID: 5737269739158446704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975074a1d883c9b90800000000000000
+      internalID: -7233844722781452935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12860140b118721f0800000000000000
+      internalID: -1069744433444919263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f98041944e2cdd0800000000000000
+      internalID: -2467158643325755535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_82
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d54504677e0dc0800000000000000
+      internalID: -3670865374791477691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_83
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 358.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9d2ddd5337ceb0800000000000000
+      internalID: -4699731207902094845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4cb29c70c759c30800000000000000
+      internalID: 4365531786687268080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125aa2ca5a739a030800000000000000
+      internalID: 3506394969582249249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c6f73b3ba9dd90800000000000000
+      internalID: -7072433468978312741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc624b32b8eb30a80800000000000000
+      internalID: -8501742166736623923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_88
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749142451ea411a20800000000000000
+      internalID: 3031286355836803399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_89
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3aea20fb7945910800000000000000
+      internalID: 1825250595631440882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_90
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c04c70519c994b0800000000000000
+      internalID: -5433090383284007883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1650c465da6bda90800000000000000
+      internalID: -7288114107218110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_92
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4538e11bfeb0d0800000000000000
+      internalID: -3405008213916692987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_93
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ac11dac1e75860800000000000000
+      internalID: 7518726364126290748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_94
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c066fcc6643b0e30800000000000000
+      internalID: 4470724671225356488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_95
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 287.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ba4c83b483a5a0800000000000000
+      internalID: -6511214729559887663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436df737b5b25a50800000000000000
+      internalID: 6508464210026783559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_97
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c2d5c741217b20800000000000000
+      internalID: 3130319808144524647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_98
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96ef329672d2450800000000000000
+      internalID: 6065547605666851326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_99
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00223a0d448e5a00800000000000000
+      internalID: 747180054608486415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10fee35ba220540800000000000000
+      internalID: 4972583896503747014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_101
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6d2a791f8a5140800000000000000
+      internalID: 4709233699956026351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760ec66e3ff17790800000000000000
+      internalID: -7533960058136295813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_103
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162d1de40b6feae0800000000000000
+      internalID: -1517876880498416109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_104
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3f80067cb60480800000000000000
+      internalID: -8933245595841250139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_105
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262678fca189af00800000000000000
+      internalID: 1128575761535870503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_106
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89350ffab7461230800000000000000
+      internalID: 3609151019852052874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_107
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 216.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357a42a888fa4690800000000000000
+      internalID: -7617002554021743302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae59f0e33b0b940800000000000000
+      internalID: 5309941039800642082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec4d9055bdbdc80800000000000000
+      internalID: -8296796730216362294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_110
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc343cd5a48d43c0800000000000000
+      internalID: -4373693815208002373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff312ac50762ab1f0800000000000000
+      internalID: -1028467300868418561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af415436d7e26dc10800000000000000
+      internalID: 2077899394149324026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_113
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65525ff2d22c0020800000000000000
+      internalID: 2309258998556284268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591ef19f7f89b390800000000000000
+      internalID: -7802047101369706149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_115
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13891b437dab45350800000000000000
+      internalID: 6004629636656502833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc90366592adf6fd0800000000000000
+      internalID: -2346417009758893617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_117
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0564c05ee36a64f80800000000000000
+      internalID: -8122622088855140784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_118
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538d76da30a59e30800000000000000
+      internalID: 4509686776448516948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_119
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 145.66666
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d146f6d42ea28240800000000000000
+      internalID: 4792584426724147667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31905a5b9a16efab0800000000000000
+      internalID: -4972429557045589741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e97c27f93f56690800000000000000
+      internalID: -7609408129221550482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d4cb64365a4a10800000000000000
+      internalID: 1894421376409064966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29aa8667e59663b0800000000000000
+      internalID: -5519559472205616854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_124
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb264652510b9720800000000000000
+      internalID: 2853876242015726513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10b324f51db1fd0800000000000000
+      internalID: -2370070571817172575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_126
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459fdb96ab719c840800000000000000
+      internalID: 5244749330455066964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_127
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681402a51eddf7070800000000000000
+      internalID: 8106441814239625606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_128
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2769a9f75042270800000000000000
+      internalID: 8224704865097904816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_129
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2adeefe433bd3c0800000000000000
+      internalID: -4333813802036518190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_130
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948b936372b4f6490800000000000000
+      internalID: -7750893801895774135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_131
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 74.666664
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0446f5c7d611f70800000000000000
+      internalID: 9156219898364707037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fccae27d3635ffe0800000000000000
+      internalID: -1155958091801768714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_133
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3e235a5c955c90800000000000000
+      internalID: -7181662119015858278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_134
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7490ed9223603f0800000000000000
+      internalID: -935004717232601097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_135
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd60ad6ef1a2a0c70800000000000000
+      internalID: 8938002726975571676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_136
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38429bd8e1b8ec080800000000000000
+      internalID: -9165235228309379965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c5984f6f934b30800000000000000
+      internalID: 4270432171985322270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b9013003297490800000000000000
+      internalID: -7748123200184535585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_139
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6030f998ee27dd380800000000000000
+      internalID: -8944866916051254522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_140
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07986095e08cb40800000000000000
+      internalID: 5460630323711275192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_141
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfefd3f71f6185c80800000000000000
+      internalID: -8333885883971404036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_142
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68399b114d01906d0800000000000000
+      internalID: -3023867171786091642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ejemplo-tiles-Game-Maker-Studio_143
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3.6666641
+        width: 71
+        height: 71.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1f9728aa1b6ef0800000000000000
+      internalID: -113968056046248101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

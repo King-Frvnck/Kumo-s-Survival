@@ -1,0 +1,3336 @@
+fileFormatVersion: 2
+guid: d8a578659925c5f43a00b3b7d504b3ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3166507378449550336
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_0"
+  - first:
+      213: -1158502712589619516
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_1"
+  - first:
+      213: -2328049879380674563
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_2"
+  - first:
+      213: -4995868642081353558
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_3"
+  - first:
+      213: -5421174835630059889
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_4"
+  - first:
+      213: 2327654996306008926
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_5"
+  - first:
+      213: -1825550685588202313
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_6"
+  - first:
+      213: -677359695936974795
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_7"
+  - first:
+      213: -2106961023691078449
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_8"
+  - first:
+      213: -1126418307864475891
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_9"
+  - first:
+      213: 5453296619245122020
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_10"
+  - first:
+      213: -7047418743102877926
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_11"
+  - first:
+      213: 7805752000785531497
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_12"
+  - first:
+      213: 7947627654072417959
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_13"
+  - first:
+      213: 6238029224616538341
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_14"
+  - first:
+      213: -8800111606188521883
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_15"
+  - first:
+      213: -864769753407977577
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_16"
+  - first:
+      213: -7465321500995332636
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_17"
+  - first:
+      213: 1717750290072141580
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_18"
+  - first:
+      213: -2713440029509207234
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_19"
+  - first:
+      213: -6804533837800833198
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_20"
+  - first:
+      213: -2337248091269547807
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_21"
+  - first:
+      213: -7206761777001043293
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_22"
+  - first:
+      213: 1670702538304570976
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_23"
+  - first:
+      213: -6097550287366535662
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_24"
+  - first:
+      213: 5445971036252181902
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_25"
+  - first:
+      213: -1825352357826936479
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_26"
+  - first:
+      213: -9020715268571009076
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_27"
+  - first:
+      213: 4091032203761342732
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_28"
+  - first:
+      213: -1120940501129629532
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_29"
+  - first:
+      213: -3160818642690967393
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_30"
+  - first:
+      213: -4316583836394499679
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_31"
+  - first:
+      213: 8356107851843651308
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_32"
+  - first:
+      213: -4876054905700522869
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_33"
+  - first:
+      213: 5265543377075733116
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_34"
+  - first:
+      213: -6183382945712244208
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_35"
+  - first:
+      213: 6080874541059042056
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_36"
+  - first:
+      213: -7947376693549963529
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_37"
+  - first:
+      213: 1367324535008628510
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_38"
+  - first:
+      213: 8515227995219823944
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_39"
+  - first:
+      213: 5949495352803430048
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_40"
+  - first:
+      213: -1392972344566507482
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_41"
+  - first:
+      213: -3130579635448773093
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_42"
+  - first:
+      213: 3134709930835144522
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_43"
+  - first:
+      213: -5224653990178294577
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_44"
+  - first:
+      213: 7472179031047375003
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_45"
+  - first:
+      213: 6116058921787684406
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_46"
+  - first:
+      213: 2753104188553062079
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_47"
+  - first:
+      213: 6300984525459548649
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_48"
+  - first:
+      213: 8897963614384996229
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_49"
+  - first:
+      213: 3576902398942017496
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_50"
+  - first:
+      213: -7609559636780537853
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_51"
+  - first:
+      213: -4527290270898376299
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_52"
+  - first:
+      213: -8919334081142015669
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_53"
+  - first:
+      213: -4278515952487601724
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_54"
+  - first:
+      213: 4083556616567728766
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_55"
+  - first:
+      213: -8478258501616076342
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_56"
+  - first:
+      213: 2572943744623025074
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_57"
+  - first:
+      213: 1880937156695654923
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_58"
+  - first:
+      213: -4199056710695988973
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_59"
+  - first:
+      213: 4628856856028348981
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_60"
+  - first:
+      213: 1908740391510637927
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_61"
+  - first:
+      213: 5412313506686346914
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_62"
+  - first:
+      213: -3520900291591126194
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_63"
+  - first:
+      213: 958354263716864849
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_64"
+  - first:
+      213: 5000873559546271156
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_65"
+  - first:
+      213: 715090238372504149
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_66"
+  - first:
+      213: -8302731635188253604
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_67"
+  - first:
+      213: -2089980082605887993
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_68"
+  - first:
+      213: 5851687024730787448
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_69"
+  - first:
+      213: 6329473861317472468
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_70"
+  - first:
+      213: -5807663479182375826
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_71"
+  - first:
+      213: -1186332167166506593
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_72"
+  - first:
+      213: 8832147217268847205
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_73"
+  - first:
+      213: -7973725465718216634
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_74"
+  - first:
+      213: 8752147162699404492
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_75"
+  - first:
+      213: 2144865197979058882
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_76"
+  - first:
+      213: -4583671617767926835
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_77"
+  - first:
+      213: -6175931413604405158
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_78"
+  - first:
+      213: -8091934558872532851
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_79"
+  - first:
+      213: -6179783593926603655
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_80"
+  - first:
+      213: 3606537892955074578
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_81"
+  - first:
+      213: 7774021740091492464
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_82"
+  - first:
+      213: 3205860546234551486
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_83"
+  - first:
+      213: -1958072859743696416
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_84"
+  - first:
+      213: 6893419161566582163
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_85"
+  - first:
+      213: -2167097717002930070
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_86"
+  - first:
+      213: -3609548397099931417
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_87"
+  - first:
+      213: 4359832074388454917
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_88"
+  - first:
+      213: -2494689617864811359
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_89"
+  - first:
+      213: 997068082519037314
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_90"
+  - first:
+      213: -687993510351456813
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_91"
+  - first:
+      213: 6930157875111968782
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_92"
+  - first:
+      213: 4445735312061397930
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_93"
+  - first:
+      213: -8111959151196372994
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_94"
+  - first:
+      213: 1575212013098165405
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_95"
+  - first:
+      213: -2430308218392355051
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_96"
+  - first:
+      213: -8416967730696367773
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_97"
+  - first:
+      213: -6237894088753643732
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_98"
+  - first:
+      213: -581633542452691050
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_99"
+  - first:
+      213: -4402180832586973737
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_100"
+  - first:
+      213: -10517272733080258
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_101"
+  - first:
+      213: -3747261840288070100
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_102"
+  - first:
+      213: -5384682970466221980
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_103"
+  - first:
+      213: -6129223718101954623
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_104"
+  - first:
+      213: -4890709008037589527
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_105"
+  - first:
+      213: -988211752418850030
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_106"
+  - first:
+      213: 7696054689388523477
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_107"
+  - first:
+      213: 1155726466411481127
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_108"
+  - first:
+      213: 7065714600070721645
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_109"
+  - first:
+      213: -2536802484349178169
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_110"
+  - first:
+      213: -5667961734212781172
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_111"
+  - first:
+      213: -831674576782841116
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_112"
+  - first:
+      213: -951044330603801394
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_113"
+  - first:
+      213: -7599868990988393387
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_114"
+  - first:
+      213: 8359033624189816938
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_115"
+  - first:
+      213: -1008726290024185363
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_116"
+  - first:
+      213: 1457941642651709960
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_117"
+  - first:
+      213: 2801019952212337219
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_118"
+  - first:
+      213: -1483145324452807005
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_119"
+  - first:
+      213: -5908960741937322970
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_120"
+  - first:
+      213: 165725231216991021
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_121"
+  - first:
+      213: 8460902335642774591
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_122"
+  - first:
+      213: -9028025205264532272
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_123"
+  - first:
+      213: -1447146094596411909
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_124"
+  - first:
+      213: -6641987989624351854
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_125"
+  - first:
+      213: 6232453347684213476
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_126"
+  - first:
+      213: 5124146273046421650
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_127"
+  - first:
+      213: -8531402092318998903
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_128"
+  - first:
+      213: 7401583430865046099
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_129"
+  - first:
+      213: -6571698664428909706
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_130"
+  - first:
+      213: -5747874224495964722
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_131"
+  - first:
+      213: 7281874183186023165
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_132"
+  - first:
+      213: -5850175627862020330
+    second: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_133"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_0"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 324
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c832f0fa1b1fb20800000000000000
+      internalID: 3166507378449550336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_1"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 324
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee4c0cbeb2cefe0800000000000000
+      internalID: -1158502712589619516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_2"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 324
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7bf1028fa11bfd0800000000000000
+      internalID: -2328049879380674563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_3"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 324
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05a3470fb1baab0800000000000000
+      internalID: -4995868642081353558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_4"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 324
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ecbf8a53e14c4b0800000000000000
+      internalID: -5421174835630059889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_5"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 324
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9b7ef2ed7d4020800000000000000
+      internalID: 2327654996306008926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_6"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 324
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5b0ad2575aa6e0800000000000000
+      internalID: -1825550685588202313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_7"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 324
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530928202f88996f0800000000000000
+      internalID: -677359695936974795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_8"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 324
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4cc43bc1292c2e0800000000000000
+      internalID: -2106961023691078449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_9"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 324
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07cd3b54882e50f0800000000000000
+      internalID: -1126418307864475891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_10"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 324
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b1f4e1600eab40800000000000000
+      internalID: 5453296619245122020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_11"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 324
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4ce1fdf9823e90800000000000000
+      internalID: -7047418743102877926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_12"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 324
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962cd9b861a935c60800000000000000
+      internalID: 7805752000785531497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_13"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 324
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebe083e35ab4e60800000000000000
+      internalID: 7947627654072417959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_14"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 324
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e036cf778ee19650800000000000000
+      internalID: 6238029224616538341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_15"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 325
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56647518e19bfd580800000000000000
+      internalID: -8800111606188521883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_16"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 291
+        width: 28
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978d93bd78bff3f0800000000000000
+      internalID: -864769753407977577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_17"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 291
+        width: 27
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e55617d5a9d56890800000000000000
+      internalID: -7465321500995332636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_18"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 291
+        width: 31
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff29ca9cca6d710800000000000000
+      internalID: 1717750290072141580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_19"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 291
+        width: 26
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b37c96bace75ad0800000000000000
+      internalID: -2713440029509207234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_20"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 291
+        width: 25
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f71c7c6807191a0800000000000000
+      internalID: -6804533837800833198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_21"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 291
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e83be78e3d609fd0800000000000000
+      internalID: -2337248091269547807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_22"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 291
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa6dfcc8507cfb90800000000000000
+      internalID: -7206761777001043293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_23"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 291
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066ccf85b178f2710800000000000000
+      internalID: 1670702538304570976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_24"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 291
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216cf61e156216ba0800000000000000
+      internalID: -6097550287366535662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_25"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 291
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8590e0bdc9f39b40800000000000000
+      internalID: 5445971036252181902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_26"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 291
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161cdc1a3bb0ba6e0800000000000000
+      internalID: -1825352357826936479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_27"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 291
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe1ecc14bffc280800000000000000
+      internalID: -9020715268571009076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_28"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 250
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09d0e53d1446c830800000000000000
+      internalID: 4091032203761342732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_29"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 250
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f1df9d8e9170f0800000000000000
+      internalID: -1120940501129629532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_30"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 250
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f8f2f0348224d0800000000000000
+      internalID: -3160818642690967393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_31"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 250
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1538cfed96814c0800000000000000
+      internalID: -4316583836394499679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_32"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 250
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce64ef591dbd6f370800000000000000
+      internalID: 8356107851843651308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_33"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 250
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846b60d5e5c45cb0800000000000000
+      internalID: -4876054905700522869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_34"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 250
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72820cadc7f21940800000000000000
+      internalID: 5265543377075733116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_35"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 250
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01afc9ac8f5303aa0800000000000000
+      internalID: -6183382945712244208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_36"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 250
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b6a8f5d2b936450800000000000000
+      internalID: 6080874541059042056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_37"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 250
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66cb4110f35b190800000000000000
+      internalID: -7947376693549963529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_38"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 250
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8dd19b66b9f210800000000000000
+      internalID: 1367324535008628510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_39"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 250
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d0a8cfeba2c2670800000000000000
+      internalID: 8515227995219823944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_40"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 250
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae8fa8608ad09250800000000000000
+      internalID: 5949495352803430048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_41"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 250
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289b2c680b2bace0800000000000000
+      internalID: -1392972344566507482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_42"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 250
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1601087862fd84d0800000000000000
+      internalID: -3130579635448773093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_43"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 250
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f615dd21ab08b20800000000000000
+      internalID: 3134709930835144522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_44"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 250
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4781990ec4e77b0800000000000000
+      internalID: -5224653990178294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_45"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 250
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9883bb4d3382b760800000000000000
+      internalID: 7472179031047375003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_46"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 207
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63673826f2b90e450800000000000000
+      internalID: 6116058921787684406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_47"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb668544cadf43620800000000000000
+      internalID: 2753104188553062079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_48"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ef37ba08917750800000000000000
+      internalID: 6300984525459548649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_49"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb4cb83caeb7b70800000000000000
+      internalID: 8897963614384996229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_50"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 207
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77e25d7c5b3a130800000000000000
+      internalID: 3576902398942017496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_51"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ab88d3d9656690800000000000000
+      internalID: -7609559636780537853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_52"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 207
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59135083c75db21c0800000000000000
+      internalID: -4527290270898376299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_53"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 207
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49be7ce8e8283480800000000000000
+      internalID: -8919334081142015669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_54"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 207
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96226e868af94c0800000000000000
+      internalID: -4278515952487601724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_55"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 207
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a27be6b15bba830800000000000000
+      internalID: 4083556616567728766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_56"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9fc3100dc275a80800000000000000
+      internalID: -8478258501616076342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_57"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb915524bee4b320800000000000000
+      internalID: 2572943744623025074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_58"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028dadd06e6a1a10800000000000000
+      internalID: 1880937156695654923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_59"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 207
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311de3f4b24f9b5c0800000000000000
+      internalID: -4199056710695988973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_60"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 207
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53283bb29c00d3040800000000000000
+      internalID: 4628856856028348981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_61"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 207
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7e6ce5453d7a10800000000000000
+      internalID: 1908740391510637927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_62"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 207
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a61b65766c1b40800000000000000
+      internalID: 5412313506686346914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_63"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 207
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43442ed6df332fc0800000000000000
+      internalID: -3520900291591126194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_64"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 207
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15323d11022cc4d00800000000000000
+      internalID: 958354263716864849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_65"
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 207
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51663b10ca66540800000000000000
+      internalID: 5000873559546271156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_66"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 166
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552ea8878c28ce900800000000000000
+      internalID: 715090238372504149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_67"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 166
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb43b4195c6cc80800000000000000
+      internalID: -8302731635188253604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_68"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e62a42036eef2e0800000000000000
+      internalID: -2089980082605887993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_69"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e47dd685e553150800000000000000
+      internalID: 5851687024730787448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_70"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b2fe11fec6d750800000000000000
+      internalID: 6329473861317472468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_71"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64435406d8076fa0800000000000000
+      internalID: -5807663479182375826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_72"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 166
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99cb6eed2d498fe0800000000000000
+      internalID: -1186332167166506593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_73"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 166
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b3417917129a70800000000000000
+      internalID: 8832147217268847205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_74"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 166
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648216f7fe2a75190800000000000000
+      internalID: -7973725465718216634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_75"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 166
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc414ae397fd57970800000000000000
+      internalID: 8752147162699404492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_76"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 166
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c3a8988714cd10800000000000000
+      internalID: 2144865197979058882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_77"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 166
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc317efe2f68360c0800000000000000
+      internalID: -4583671617767926835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_78"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 166
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50feeec91faa4aa0800000000000000
+      internalID: -6175931413604405158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_79"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 166
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8802b0446ca3bf80800000000000000
+      internalID: -8091934558872532851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_80"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 166
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc73f209ffc3aa0800000000000000
+      internalID: -6179783593926603655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_81"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 166
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b29afa1ffc0230800000000000000
+      internalID: 3606537892955074578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_82"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 166
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784156859fd2eb60800000000000000
+      internalID: 7774021740091492464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_83"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 124
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc00c17e218d7c20800000000000000
+      internalID: 3205860546234551486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_84"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c4aebb1783d4e0800000000000000
+      internalID: -1958072859743696416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_85"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 124
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951c0d54385aaf50800000000000000
+      internalID: 6893419161566582163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_86"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 124
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68fa70bb1cece1e0800000000000000
+      internalID: -2167097717002930070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_87"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 124
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e827476bde48edc0800000000000000
+      internalID: -3609548397099931417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_88"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 124
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e374a1c2c318c30800000000000000
+      internalID: 4359832074388454917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_89"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 124
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac105e8205116dd0800000000000000
+      internalID: -2494689617864811359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_90"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 124
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855d6b632c46dd00800000000000000
+      internalID: 997068082519037314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_91"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 124
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53ab72c81c376f0800000000000000
+      internalID: -687993510351456813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_92"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 124
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00cc6faedddc2060800000000000000
+      internalID: 6930157875111968782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_93"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 124
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab74d836bc62bd30800000000000000
+      internalID: 4445735312061397930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_94"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff57881288c6f80800000000000000
+      internalID: -8111959151196372994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_95"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 124
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94e4a6eaf64cd510800000000000000
+      internalID: 1575212013098165405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_96"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 124
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd20c3d8fc54ed0800000000000000
+      internalID: -2430308218392355051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_97"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 124
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361dae5a17ce03b80800000000000000
+      internalID: -8416967730696367773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_98"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 124
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f7455406c8e69a0800000000000000
+      internalID: -6237894088753643732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_99"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 124
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb7a0ff5f9de7f0800000000000000
+      internalID: -581633542452691050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_100"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 124
+        width: 33
+        height: 28
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbe944bdf48e2c0800000000000000
+      internalID: -4402180832586973737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_101"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 124
+        width: 36
+        height: 25
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352dbe9892aadff0800000000000000
+      internalID: -10517272733080258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_102"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 124
+        width: 36
+        height: 21
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c049c53d0ffbc0800000000000000
+      internalID: -3747261840288070100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_103"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460044d1e53c545b0800000000000000
+      internalID: -5384682970466221980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_104"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf42ad908f90faa0800000000000000
+      internalID: -6129223718101954623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_105"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edcd1cb116b02cb0800000000000000
+      internalID: -4890709008037589527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_106"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 63
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b453e95aa2942f0800000000000000
+      internalID: -988211752418850030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_107"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 63
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6bfce6f0edca60800000000000000
+      internalID: 7696054689388523477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_108"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 63
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72849ff0917f90010800000000000000
+      internalID: 1155726466411481127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_109"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b1853ef57e0260800000000000000
+      internalID: 7065714600070721645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_110"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 63
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee90fb4977bccd0800000000000000
+      internalID: -2536802484349178169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_111"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 63
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b7db735da5751b0800000000000000
+      internalID: -5667961734212781172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_112"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 63
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa22af06c4574f0800000000000000
+      internalID: -831674576782841116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_113"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 63
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec416bc58363dc2f0800000000000000
+      internalID: -951044330603801394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_114"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 63
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55461a42b67d78690800000000000000
+      internalID: -7599868990988393387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_115"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 63
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60516b0bc0410470800000000000000
+      internalID: 8359033624189816938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_116"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 68
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c28f98c84002f0800000000000000
+      internalID: -1008726290024185363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_117"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80231811336ab3410800000000000000
+      internalID: 1457941642651709960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_118"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 64
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e56c5ec83fd620800000000000000
+      internalID: 2801019952212337219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_119"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae75b97f2fca6be0800000000000000
+      internalID: -1483145324452807005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_120"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e81123872ffda0800000000000000
+      internalID: -5908960741937322970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_121"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b12014836cc4200800000000000000
+      internalID: 165725231216991021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_122"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca243b8d92b6570800000000000000
+      internalID: 8460902335642774591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_123"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3fe888e206b280800000000000000
+      internalID: -9028025205264532272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_124"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdac755b44baebe0800000000000000
+      internalID: -1447146094596411909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_125"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 18
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293970c3d1be2d3a0800000000000000
+      internalID: -6641987989624351854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_126"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 10
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e269eb7c4f1e7650800000000000000
+      internalID: 6232453347684213476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_127"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 20
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e21ee2ef9c1740800000000000000
+      internalID: 5124146273046421650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_128"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 10
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e3d439ffe5a9980800000000000000
+      internalID: -8531402092318998903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_129"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 16
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac0244ae4b7b660800000000000000
+      internalID: 7401583430865046099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_130"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 10
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4ecf02e2acc4a0800000000000000
+      internalID: -6571698664428909706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_131"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 13
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4b4ba8d27b30b0800000000000000
+      internalID: -5747874224495964722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_132"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 13
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df204e31df96e0560800000000000000
+      internalID: 7281874183186023165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "imgbin_sprite-2d-computer-graphics-scrolling-personnage-de-jeu-vid\xE9o-video-game-png_133"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 13
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe2a3134000dea0800000000000000
+      internalID: -5850175627862020330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
